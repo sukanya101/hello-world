@@ -1,3 +1,3 @@
 # hello-world
-my first repository
-I love python
+my first repository.
+/nI love python
